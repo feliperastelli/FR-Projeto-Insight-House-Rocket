@@ -147,9 +147,9 @@ As duas primeiras tabelas do aplicativo, demonstram respectivamente, os imóveis
 
 Com a seleção feita, é possível visualizar os imóveis selecionados em um mapa e também, a densidade de lucro, onde é possível verificar qual região é mais lucrativa para se investir.
 
+![Projeto-Insight-House-Rocket](map_location.png) 
 
-
-
+![Projeto-Insight-House-Rocket](density_map.png)
 
 ### 2.4  Planejamento da análise dos Insights:
 
@@ -183,7 +183,37 @@ A *feature* *%_imoveis* demonstra o percentual de imóveis na condição x com r
 Foi realizado ainda um teste aplicando o conceito de Pareto, para verificar se seria possível maximizar o lucro com um número menor de casas vendidas, todavia como é possível verificar, não há uma diferença considerável entre *%_imóveis* e *%_lucro*.
 
 Evidente perceber que os principais insights a se destacar, é que imóveis com __view__ igual a zero, __sem vista para a água__ e que __nunca foram reformados__, são melhores para se investir, em termos de lucratividade.
-Outro ponto relevante, é que as operações de venda realizadas no __inverno__ são mais lucrativas, portanto, é o melhor período para se vender imóvei.
+Outro ponto relevante, é que as operações de venda realizadas no __inverno__ são mais lucrativas, portanto, é o melhor período para se vender imóveis.
 
+![Projeto-Insight-House-Rocket](season_profit.png)
 
+### 3.2 Portfólio total:
+
+Tendo todo entendimento do negócio, e respondida as perguntas de negócio, foram levantadas algumas hipóteses para serem validadas, com o objetivo de gerar insights para próximas questões de negócio ou mesmo gerar novas estratégias para a House Rocket:
+
+Tendo todo entendimento do negócio, e respondida as perguntas de negócio, foram levantadas algumas hipóteses para serem validadas, com o objetivo de gerar insights para próximas questões de negócio ou mesmo gerar novas estratégias para a House Rocket:
+
+| __Hipótese__ | __Resultado__ | __Tradução para negócio__ |
+| ------------ | ------------ | ------------ |
+| __H1__ -Imóveis com vista para a água são em média mais caros | Verdadeira | Imóveis com vista para água são 212% mais caros. Procurar investir em imóveis sem vista para água, por terem custo de negócio menor |
+| __H2__ - Imóveis com data de construção menor que 1955 são em média mais baratos | Falsa | Investir em imóveis independente da data de construção |
+| __H3__ - Imóveis sem porão são maiores do que imóveis com porão | Verdadeira | Investir em imóveis sem porão, pois oferecem maior área de terreno |
+| __H4__ - Houve crescimento do preço médio dos imóveis YoY ( Year over Year ) | Falsa | Não houve considerável crescimento no preço médio entre os anos. Ou seja, o período analisado teve preços médios próximos, sem variações que poderia ser estudadas como anormalidades |
+| __H5__ - Imóveis com mais quartos são em média mais caros | Verdadeira | Investir em imóveis de até 4 quartos é o ideal. Acima de 5 quartos, o preço médio é 69% maior|
+
+## 4. Resultados financeiros:
+
+O objetivo desse projeto era fornecer uma lista de imóveis com opções de compra e venda, e consequentemente o __lucro máximo__ que poderá ser obtido se todas as transações ocorrerem. Ou seja, o resultado financeiro apresentado abaixo representa o lucro máximo que pode ser obtido utilizando as recomendações informadas.
+
+| __Número de imóveis__ | __Custo total__ | __Receita de vendas__ | __Lucro (profit)__ |
+| ----------------- | ----------------- | ----------------- | ----------------- |
+| 10.505 | US$ 4.079.586.744.00 | US$ 5.266.225.532.20 | US$ 1.186.638.788.20 |
+
+Todavia cabe reforçar, que o lucro pode ser explorado por condições e região dos imóveis, onde as visualizações fornecidas demonstram todo resultado do projeto, assim como o resultado financeiro, de forma customizada para as opções escolhidas.
+
+## 5. Conclusão:
+
+O projeto tem como princípio a geração de insights para o negócio, assim como responder algumas perguntas feitas pela empresa. O objetivo foi concluído, e foi possível extrair informações relevantes e com potencial forma de gerar direcionamento para as próximas operações da House Rocket.
+
+As visualizações fornecidas irão permitir com que a empresa possa avaliar as regiões mais lucrativas, os atributos que levam o imóvel a se tornar mais viável para as operações de compra e venda, e ainda visualizar o lucro máximo que poderá ser alcançado de acordo com as opções de negócio.
 
