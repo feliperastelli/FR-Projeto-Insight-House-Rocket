@@ -1,4 +1,7 @@
 # Projeto de Insight: House Rocket
+
+![Projeto-Insight-House-Rocket](sale.png) 
+
 O objetivo desse projeto é fornecer para o time de negócios, uma seleção de imóveis, dadas as melhores condições, para que a empresa possa realizar suas operações de compra e venda. Os insights fornecidos neste projeto visam demonstrar um valor de lucro máximo que a empresa pode obter dado as condições que a mesma pode definir num segundo momento.
 
 A ferramenta de visualização utilizada nesse projeto - Streamlit, permitirá que a empresa possa visualizar esse resultado de forma gráfica, tabular e através de mapas de localização.
@@ -7,7 +10,9 @@ O resultado geral obtido foi uma seleção de 10.505 imóveis (podendo ser vari�
 
 Assumindo que o time de negócios definiu os percentuais de 30% e 10% de margem  de lucro(conforme detalhes nos tópicos 1.4 e 2.2b, o lucro máximo que poderá ser obtido com as operações é de US$ 1.186.638.788.20
 
-Link para visualização:
+Link para visualização:  [<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://lujanrr-house-rocket.herokuapp.com)
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## 1. A House Rocket
 
