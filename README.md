@@ -7,11 +7,11 @@ A ferramenta de visualização utilizada nesse projeto - Streamlit, permitirá q
 
 O resultado geral obtido foi uma seleção de __10.505 imóveis__ (podendo ser variável de acordo com as condições/localizações) que corresponde a quase 50% dos imóveis do portfólio disponibilizado.
 
-Assumindo que o time de negócios definiu os percentuais de 30% e 10% de margem  de lucro(conforme detalhes nos tópicos 1.4 e 2.2b, o lucro máximo que poderá ser obtido com as operações é de __US$ 1.186.638.788.20__
+Assumindo que o time de negócios definiu os percentuais de 30% e 10% de margem  de lucro(conforme detalhes nos tópicos 1.4 e 2.2b, o lucro máximo que poderá ser obtido com as operações é de __US$ 1.186.638.788,20__
 
 | __Número de imóveis__ | __Custo total__ | __Receita de vendas__ | __Lucro (profit)__ |
 | ----------------- | ----------------- | ----------------- | ----------------- |
-| 10.505 | US$ 4.079.586.744.00 | US$ 5.266.225.532.20 | US$ 1.186.638.788.20 |
+| 10.505 | US$ 4.079.586.744,00 | US$ 5.266.225.532,20 | US$ 1.186.638.788,20 |
 
 Link para visualização:  [<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://lujanrr-house-rocket.herokuapp.com)
 
