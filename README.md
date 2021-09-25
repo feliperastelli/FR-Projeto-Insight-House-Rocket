@@ -33,8 +33,8 @@ Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrati
 
 Considerando que:
 
-O time do negócio não consegue tomar boas decisões de compra sem analisar os dados.
-O portfólio é muito grande, muito tempo para fazer o trabalho manualmente.
+a) O time do negócio não consegue tomar boas decisões de compra sem analisar os dados,e;
+b) O portfólio é muito grande, muito tempo para fazer o trabalho manualmente.
 
 O objetivo desse projeto é fornecer uma seleção de imóveis, dadas as melhores condições, para que a empresa possa realizar suas operações de compra e venda. 
 O planejamento é demonstrar através de visualizações, quais as melhores oportunidades e qual resultado (lucro) máximo que pode ser alcançado.
