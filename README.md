@@ -90,13 +90,13 @@ Dentro do processo de entendimento de negócio, exploração dos dados e decisã
 - Para as condições dos imóveis, foi determinada a seguinte classificação: __1 = péssimo, 2 = ruim, 3 = regular, 4 = bom e 5 = excelente__
 Como a sazonalidade também influencia diretamente a demanda por investimento em imóveis, a estação do ano foi a característica decisiva para a época da venda do imóvel (*https://blog.loft.com.br/sazonalidade/*)
 
-__A premissa mais relevante (business assumptions) , é que foi assumido no projeto que o time de negócios aplica um percentual de 30% sobre o valor das casas compradas no valor abaixo do valor mediano da região + sazonalidade, e de 10% em caso contrário.__
+__A premissa mais relevante (business assumption) , é que foi assumido no projeto que o time de negócios aplica um percentual de 30% sobre o valor dos imóveis compradas no valor abaixo do valor mediano da região + sazonalidade, e de 10% nos imóveis comprados acima do valor mediano da região + sazonalidade_
 
 ## 2. Planejamento da solução:
 
 ### 2.1  Exploração de dados:
 
-A primeira etapa do projeto foi realizar a coleta, tratamento e exploração dos dados. Nessa etapa foi possível realizar identificar necessidades de limpeza e transformação de dados, realizar uma análise das estatísticas descritivas dos conjuntos de dados, e realizar a criação de novas *features* para facilitar e proporcionar as visualizações e criações dos insights que serão apresentados. A motivação da criação das novas features serão explanadas em outro momento.
+A primeira etapa do projeto foi realizar a coleta, tratamento e exploração dos dados. Nessa etapa foi possível realizar identificar necessidades de limpeza e transformação de dados, realizar uma análise das estatísticas descritivas dos conjuntos de dados, e ainda realizar a criação de novas *features* para facilitar e proporcionar as visualizações e criações dos insights que serão apresentados. A motivação da criação das novas features serão explanadas em outro momento.
 
 - Estatísticas descritivas:
 
@@ -197,8 +197,6 @@ Outro ponto relevante, é que as operações de venda realizadas no __inverno__ 
 ![Projeto-Insight-House-Rocket](season_profit.png)
 
 ### 3.2 Portfólio total:
-
-Tendo todo entendimento do negócio, e respondida as perguntas de negócio, foram levantadas algumas hipóteses para serem validadas, com o objetivo de gerar insights para próximas questões de negócio ou mesmo gerar novas estratégias para a House Rocket:
 
 Tendo todo entendimento do negócio, e respondida as perguntas de negócio, foram levantadas algumas hipóteses para serem validadas, com o objetivo de gerar insights para próximas questões de negócio ou mesmo gerar novas estratégias para a House Rocket:
 
