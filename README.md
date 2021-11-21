@@ -29,7 +29,7 @@ Sua principal estratégia é ***comprar boas casas*** em ótimas localizações 
 
 Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrativas aos compradores e vendedores, e a localização e o período do ano também podem influenciar os preços.
 
-### 1.1 Questão do negócio:
+### 1.2 Questão do negócio:
 
 Considerando que:
 
@@ -45,7 +45,7 @@ Em suma, o projeto visa responder às seguintes perguntas de negócio:
 - Quais são os imóveis que a House Rocket deveria comprar e por qual preço ?
  - Uma vez a casa comprada, qual o melhor momento para vendê-las e por qual preço ?
 
-### 1.2 Sobre os dados:
+### 1.3 Sobre os dados:
 
 Os dados foram extraídos do link abaixo, onde constam todos os imóveis em portfólio e disponíveis para a empresa.
 
@@ -78,7 +78,7 @@ Os atributos dos imóveis dentro do portfólio e seus respectivos significados, 
 
 *Além do dataset acima citado, foi utilizado um arquivo geojson para a criação de mapas de densidade. A API foi extraída do site ArcGIS Hub.*
 
-### 1.4 Premissas do negócio:
+### 1.5 Premissas do negócio:
 
 Dentro do processo de entendimento de negócio, exploração dos dados e decisão para fornecer os insights finais, foram adotadas as seguintes premissas:
 
